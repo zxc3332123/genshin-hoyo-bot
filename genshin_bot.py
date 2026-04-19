@@ -3,7 +3,7 @@ import requests
 import json
 
 # --- 設定區 ---
-GENSHIN_UID = "172534910" # 原神官方帳號 UID
+GENSHIN_UID = "1015537" # 原神官方帳號 UID
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 MEMORY_FILE = "genshin_memory.json"
 
